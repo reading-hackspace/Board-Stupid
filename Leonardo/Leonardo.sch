@@ -1093,17 +1093,17 @@ Text Label 5700 7450 0    60   ~ 0
 D1/TX
 Text Label 5700 7550 0    60   ~ 0
 D0/RX
-Text Label 4300 7550 2    60   ~ 0
-A0
-Text Label 4300 7450 2    60   ~ 0
-A1
-Text Label 4300 7350 2    60   ~ 0
-A2
-Text Label 4300 7250 2    60   ~ 0
-A3
-Text Label 4300 7150 2    60   ~ 0
-A4
 Text Label 4300 7050 2    60   ~ 0
+A0
+Text Label 4300 7150 2    60   ~ 0
+A1
+Text Label 4300 7250 2    60   ~ 0
+A2
+Text Label 4300 7350 2    60   ~ 0
+A3
+Text Label 4300 7450 2    60   ~ 0
+A4
+Text Label 4300 7550 2    60   ~ 0
 A5
 Text Label 4300 6500 2    60   ~ 0
 VIN
