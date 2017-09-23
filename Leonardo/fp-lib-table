@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "DC10LP socket")(type KiCad)(uri "D:/jeremy/Dev/JeremyPoulter/Board-Stupid/DC10LP socket.pretty")(options "")(descr ""))
+)
