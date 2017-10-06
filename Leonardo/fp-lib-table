@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "DC10LP socket")(type KiCad)(uri "$(KIPRJMOD)/DC10LP socket.pretty")(options "")(descr ""))
+  (lib (name MF-MSMF050-2..)(type Legacy)(uri "$(KIPRJMOD)/MF-MSMF050-2.pretty/MF-MSMF050-2...mod")(options "")(descr ""))
 )
